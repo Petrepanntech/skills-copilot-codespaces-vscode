@@ -1,6 +1,6 @@
 # skills-copilot-codespaces-vscode
 
-## Copilot Pro in the regular app
+## Does Copilot Pro work in the regular VS Code app?
 
 Yes. GitHub Copilot Pro works in the regular VS Code app as long as you:
 
